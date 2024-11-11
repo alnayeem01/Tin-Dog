@@ -1,0 +1,17 @@
+README.md
+# Ignore OS-specific system files
+
+Thumbs.db  # Windows
+
+# Ignore potential SFTP config or sensitive data files
+
+*.env
+
+# Ignore log files
+*.log
+
+
+
+
+# Ignore cache files
+.cache/
